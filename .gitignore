@@ -1,0 +1,5 @@
+.VSCodeCounter/
+__pycache__/
+original.py
+data/
+results/
